@@ -1,4 +1,5 @@
-import 'package:aruna_app/screens/login_page.dart';
+import 'package:aruna_app/screens/welcome/login_page.dart';
+
 import 'package:dots_indicator/dots_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:introduction_screen/introduction_screen.dart';
