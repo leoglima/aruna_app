@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19575346990",
+    "project_id": "aruna-304405",
+    "storage_bucket": "aruna-304405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19575346990:android:b71a523434baaa6be4ccbf",
+        "android_client_info": {
+          "package_name": "com.example.aruna_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19575346990-cs78ah05pds0bra5ge4l938276r95enf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aruna_app",
+            "certificate_hash": "49e05a1b22898d1b51d159dbc4a0d2236b315832"
+          }
+        },
+        {
+          "client_id": "19575346990-8dl74vonb18jo1odcajlm86dt0u9iqof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8hrtuSUWS2BbcDhWyBscQdFzBdcbH2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19575346990-8dl74vonb18jo1odcajlm86dt0u9iqof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
