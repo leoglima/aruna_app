@@ -1,9 +1,8 @@
 import 'package:aruna_app/components/rounded_buttom.dart';
-import 'package:aruna_app/constants.dart';
 import 'package:aruna_app/screens/login/login_screen.dart';
-
 import 'package:aruna_app/screens/singup/singup_screen.dart';
 import 'package:aruna_app/screens/welcome/componentes/background.dart';
+import 'package:aruna_app/utils/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 

@@ -1,5 +1,5 @@
 import 'package:aruna_app/components/text_field_container.dart';
-import 'package:aruna_app/constants.dart';
+import 'package:aruna_app/utils/constants.dart';
 import 'package:flutter/material.dart';
 
 class RoundedInputField extends StatelessWidget {

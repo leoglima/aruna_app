@@ -1,4 +1,4 @@
-import 'package:aruna_app/screens/singup/componentes/body_singup.dart';
+import 'package:aruna_app/screens/singup/componentes/body.dart';
 import 'package:flutter/material.dart';
 
 class SingUpscreen extends StatelessWidget {

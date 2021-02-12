@@ -1,4 +1,4 @@
-import 'package:aruna_app/screens/login/componentes/body_login.dart';
+import 'package:aruna_app/screens/login/componentes/body.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatelessWidget {

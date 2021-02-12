@@ -1,6 +1,5 @@
+import 'package:aruna_app/screens/welcome/componentes/body.dart';
 import 'package:flutter/material.dart';
-
-import 'componentes/body_page.dart';
 
 class LoginPage extends StatelessWidget {
   @override

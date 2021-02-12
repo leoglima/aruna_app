@@ -1,4 +1,4 @@
-import 'package:aruna_app/constants.dart';
+import 'package:aruna_app/utils/constants.dart';
 import 'package:flutter/material.dart';
 
 class RoundedButtom extends StatelessWidget {
