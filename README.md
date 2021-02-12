@@ -1,7 +1,5 @@
-# aruna_app
+# aruna
 
 Aruna Project project.
-
-## Getting Started
 
 Project for an anxiety control application.
